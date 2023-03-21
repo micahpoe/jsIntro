@@ -1,0 +1,1 @@
+let myArray = ['cornflakes', 'pebbles', 'adam', 'bella']
